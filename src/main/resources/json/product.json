@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Playstation 5",
+        "price": 550
+    },
+    {
+        "id": 2,
+        "name": "Nintendo Switch 2",
+        "price": 450
+    },
+    {
+        "id": 3,
+        "name": "Xbox Series X",
+        "price": 500
+    },
+    {
+        "id": 4,
+        "name": "Portatil ASUS",
+        "price": 1500
+    }
+]
